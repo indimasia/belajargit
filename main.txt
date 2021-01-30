@@ -1,2 +1,5 @@
+<<<<<<< HEAD
+local1
 server1
 server2
+>>>>>>> 2d9e8e54519895b86c666755d462a85298a1b274
